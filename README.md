@@ -13,7 +13,7 @@
 
 Create two Ubuntu VMs using VirtualBox
 
-![Image Alt text](images\Two_VMS_Overview.png)
+![Image Alt text](images/Two_VMS_Overview.png)
 
 
 Create common network for Vms
